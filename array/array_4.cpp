@@ -99,7 +99,7 @@ void matrix() {
     }
 
     gotoxy(12,15);
-    cout << " + ";
+    cout << " x ";
     for (i = 1; i <= n; i++)
     {
         for (j = 1; j <= n; j++)
